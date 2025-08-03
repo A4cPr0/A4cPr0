@@ -1,8 +1,8 @@
-### Hi there 👋
+### H1 ther3... 
 <img src="https://avatars.githubusercontent.com/A4cPr0" width="150" height="150"/>
 </p>
-<h1 align='center'>السلام عليكم :wave:</h1>
-<p align='center'>Hi There, I'm A4cPr0</p>
+<h1 align='center'>السلام عليكم 〰️:</h1>
+<p align='center'>H1 Th3r3, I'm A4cPr0</p>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
@@ -11,17 +11,14 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
      "Name": "A4cPr0",
-     "Status": "H4cKeR",
-     "Address": "Unknown",
+     "Status": "¢0d3r$",
+     "Address": "???",
      "Age": "??",
-    "Birthday": "////- /, ////"
+    "Birthday": "????- ?, ????"
    
-     "Big Thanks To"
+     "B18 Th4πk$ T0"
 
-    "- 4im4n"
-    "- Unkn0wn"
-     "- C0diN8"
-    "- Secret"
+    "- M4NZY"
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
